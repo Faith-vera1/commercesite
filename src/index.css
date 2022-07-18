@@ -21,6 +21,41 @@ a{
   object-fit: contain;
 }
 
+@media(min-width:320px){
+  .card-text{
+    width: 98%;
+    height: 3rem;
+  }
+}
+
+@media(min-width:520px){
+  .card{
+    width: 200px;
+    
+  }
+  .col-md-3{
+    width: 98%;
+
+  }
+  .card-text{
+    font-size: 8px;
+    font-weight: 10;
+    font-display: italics;
+  }
+
+  .card-img-top{
+    width: 200px;
+    height: fit-content;
+  }
+
+  input{
+    width: 10rem;
+    border-radius: 2px;
+  }
+}
+
+
+
 
 
 

@@ -1,4 +1,11 @@
 
+import aa from '../Images/blue suit.webp'
+import ab from '../Images/malecollection.webp'
+import bb from '../Images/blackdress.webp'
+
+import cc from '../Images/kidclothes1.png'
+import dd from '../Images/geneve fashion bag.webp'
+// import ee from '/src/Images/kid suit.png'
 
     const categories =  [
         {
@@ -6,7 +13,9 @@
           tittle: "mens suit", 
           Price :10000,
           category: "Men",
-          image : "../Images/blue suit.webp"
+          img: aa,
+          img: ab
+          
         },
     
         {
@@ -14,15 +23,17 @@
             tittle: "women black dress", 
             Price :8000,
             category:"women",
-            image : "../Images/blackdress.webp"
+            img: bb
+            
           },
     
           {
             id: 3,
-            tittle: "kidclothes", 
+            tittle: "kid's clothes", 
             Price :7000,
             category:"children",
-            image : "../Images/black straight dress.webp"
+            img: cc
+            
           },
 
           {
@@ -30,8 +41,11 @@
             tittle: "other items", 
             Price :5000,
             category:"all",
-            image : "../Images/black straight dress.webp"
+            img: dd
+            
           }
+
+          
     ]
     
 
@@ -41,4 +55,4 @@
 
 
 
-export default Categories
+export default categories

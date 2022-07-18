@@ -1,6 +1,7 @@
 import React from 'react' 
 import img2 from '../Images/logo classyrobes.jpeg'
 
+
 const Navbar = () => {
   return (
     <>
