@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14a55a54.css",
+    "main.js": "/static/js/main.61d2f46a.js",
+    "static/js/787.1f21f776.chunk.js": "/static/js/787.1f21f776.chunk.js",
+    "static/media/malecollection.webp": "/static/media/malecollection.1c506a73cf7707b17889.webp",
+    "static/media/blue top.webp": "/static/media/blue top.955922e39a6c69126bfb.webp",
+    "static/media/floral shirt.png": "/static/media/floral shirt.a1384f1abbfb331ae83c.png",
+    "static/media/kidclothes1.png": "/static/media/kidclothes1.d799885c5155593e96cd.png",
+    "static/media/kid suit.png": "/static/media/kid suit.f32aea4cdcfb7073a0d1.png",
+    "static/media/kidgown1.png": "/static/media/kidgown1.75e34c1aadf660bc5e93.png",
+    "static/media/blue suit.webp": "/static/media/blue suit.70c45624686fc44a2cd8.webp",
+    "static/media/geneve fashion bag.webp": "/static/media/geneve fashion bag.3ace538dbf99508e2e32.webp",
+    "static/media/brown dress.webp": "/static/media/brown dress.2e2a7b3da202ad5bd2ab.webp",
+    "static/media/blackdress.webp": "/static/media/blackdress.021c2901a508bfa21c50.webp",
+    "index.html": "/index.html",
+    "main.14a55a54.css.map": "/static/css/main.14a55a54.css.map",
+    "main.61d2f46a.js.map": "/static/js/main.61d2f46a.js.map",
+    "787.1f21f776.chunk.js.map": "/static/js/787.1f21f776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a55a54.css",
+    "static/js/main.61d2f46a.js"
+  ]
+}

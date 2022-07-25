@@ -1,5 +1,5 @@
 import React from 'react' 
-import img2 from '../Images/logo classyrobes.jpeg'
+import img2 from '../Images/croppedlogo.jpeg'
 
 
 const Navbar = () => {
@@ -12,6 +12,7 @@ const Navbar = () => {
   <div className="container-fluid">
     <a className="navbar-brand" href="#">
       <img src={img2} alt="" width="50" height="24" className="d-inline-block align-text-top"/>
+      <h4>classyRobes</h4>
       
     </a>
 
